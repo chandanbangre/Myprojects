@@ -1,0 +1,171 @@
+.heading{
+    font-size: 4.0rem;
+    font-family: "MuseoModerno";
+    color: white;
+}
+
+h3{
+    font-family: "oswald";
+    font-weight: bold;
+}
+p{
+    color: #8f8f8f;
+}
+#nav-b{
+    font-family: "ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+#title{
+     background-color: #e7305b;
+}
+
+.titl-img{
+    transform: rotate(25deg);
+    padding-left: 15%;
+    width: 75%;
+    position: absolute;
+    right: 10%;
+
+    
+}
+
+body{
+    font-family: "Montserrat";
+}
+
+
+
+#cont{
+    padding: 3% 15% 20%;
+
+}
+
+#nav-m{
+    padding-bottom: 4.5rem;
+}
+
+
+.nav-item{
+    padding: 0% 14%;
+}
+
+
+.down-but{
+    margin: 5% 3% 5% 0%;
+}
+
+
+#features{
+    padding: 7% 15%;
+    background-color: white;
+    position: relative;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
+
+#testimonials{
+   
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.testi-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+
+
+.logo-img{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.testi-txt{
+
+    font-family: "oswald";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+
+}
+
+#pricn-txt{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 60px;
+}
+
+#pricn-p{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 2rem;
+    padding: 20px;
+}
+
+
+@media (max-width: 1028px){
+    #title{
+        text-align: center;
+    }
+
+
+
+    .titl-img{
+        position: static;
+        transform: rotate(0);
+        padding-top: 30px;
+    }
+}
+
+
+#cta{
+    background-color: #e7305b;
+    padding: 15% 15%;
+    text-align: center;
+}
+
+.cta-txt{
+    font-family: "oswald";
+    color: white;
+    font-size: 3.5rem;
+    text-align: center;
+    line-height: 2;
+}
+
+
+#footer{
+    text-align: center;
+    padding: 3% 3%;
+}
+
+#cpy{
+    padding-top: 3%;
+}
+
