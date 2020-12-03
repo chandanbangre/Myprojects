@@ -3,7 +3,7 @@ Websites i have created
 
 Web developer :  Still Compiling.................................
 
-DiscordClone:(Redux)
+DiscordClone:(Redux,Authentication)
 https://discordc1-d4511.web.app
 
 
