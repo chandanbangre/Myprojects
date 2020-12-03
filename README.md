@@ -3,7 +3,12 @@ Websites i have created
 
 Web developer :  Still Compiling.................................
 
-NetflixClone:
+DiscordClone:(Redux)
+https://discordc1-d4511.web.app
+
+
+
+NetflixClone:(API,axios,ReactDOM)
 https://netfix-c1.web.app/
 
 
