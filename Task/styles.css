@@ -1,0 +1,422 @@
+#logo-img {
+  width: 10rem;
+}
+
+.cont {
+  padding: 3% 11% 0% 11%;
+}
+
+.nav-item {
+  padding-left: 8%;
+}
+
+#nav-txt {
+  margin-left: 10%;
+  color: red;
+}
+
+#navbarToggler {
+  padding-left: 6%;
+}
+
+#titl {
+  padding: 4% 4% 0% 4%;
+}
+
+.titl-txt1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 3.5rem;
+  opacity: 80%;
+  letter-spacing: 1.5px;
+}
+
+.titl-txt2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  opacity: 90%;
+  letter-spacing: 1.4px;
+}
+
+.titl-txt3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+  opacity: 70%;
+  letter-spacing: 1.8px;
+}
+#hr1 {
+  border: 2px solid red;
+  width: auto;
+}
+#titl-txt {
+  padding-left: 8%;
+  padding-top: 5%;
+  z-index: 1;
+}
+
+#titl-img {
+  width: 180%;
+  right: 0%;
+}
+
+#nav-dots {
+  width: 16%;
+  position: absolute;
+  right: 0;
+  top: 40%;
+}
+#courses{
+    padding-top: 4rem;
+}
+#nav-dots2 {
+  display: inline-block;
+  left: 1px;
+}
+#features {
+  padding: 7% 15% 0% 15%;
+  background-color: white;
+  position: relative;
+}
+
+#adv {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bolder;
+  font-size: 3rem;
+}
+
+.card1 {
+  text-align: center;
+  border-radius: 25px;
+  border: 1px solid;
+  padding: 18px;
+  width: 200px;
+  height: 150px;
+  max-width: 10rem;
+  margin: 1%;
+}
+
+.ico {
+  font-size: 2rem;
+  color: #ef4d3e;
+  padding: 8% 6%;
+}
+
+.ico:hover{
+  color: red;
+}
+
+#hr2 {
+  max-width: 6rem;
+  border: 2px solid red;
+}
+.card-text {
+  line-height: 1.2rem;
+}
+
+.cont2 {
+  padding-top: 4%;
+}
+
+.card2 {
+  text-align: left;
+  border-radius: 25px;
+  box-shadow: 0 0 4px black;
+  border: 1px solid;
+  padding: 18px;
+  width: 400px;
+  height: 400px;
+  max-width: 10rem;
+  margin: 3%;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+}
+
+.card3 {
+  text-align: left;
+  border-radius: 25px;
+  box-shadow: 0 0 4px black;
+  border: 1px solid;
+  padding: 18px;
+  width: 400px;
+  height: 400px;
+  max-width: 10rem;
+  margin: auto;
+  margin-top: 3rem;
+}
+.carousel.item {
+  text-align: center;
+}
+
+.cont3 {
+  padding: 8% 10%;
+}
+
+.carousel-indicators li {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin: 1px;
+  border-radius: 50%;
+  background-color: wheat;
+}
+.carousel-indicators .active {
+  width: 10px;
+  height: 10px;
+  margin: 1px;
+  border-color: white;
+  background-color: red;
+}
+
+.arrow {
+  background-color: red;
+}
+.indi {
+  padding-top: 4rem;
+}
+
+.cont4 {
+  padding: 2% 25%;
+}
+
+.card4 {
+    text-align: left;
+    border-radius: 25px;
+    box-shadow: 0 0 8px black;
+    border: 1px solid;
+    padding: 18px;
+    width: 300px;
+    height: 450px;
+    max-width: 10rem;
+    margin: auto;
+    margin-top: 3rem;
+  }
+
+  .testi-img{
+      margin-left: 32%;
+      width: 6rem;
+      box-shadow: 0 0 8px red ;
+  }
+
+  .testi-txt{
+    text-align: center0;
+    margin-top: 1rem;
+  }
+
+.cont5{
+    padding: 5% 20%;
+}
+
+.card5{
+    border-radius: 100px 20px 100px 20px;
+    box-shadow: 0 0 8px black;
+    border: 1px solid;
+    width: 300px;
+    height: 400px;
+    
+
+}
+.jrn-img{
+    padding-top: 2rem;
+    padding-left: 2rem;
+    width: 21rem;
+
+}
+
+.jrn-txt{
+    padding-left: 6rem;
+    padding-top: 4rem;
+    line-height: 2rem;
+}
+
+.pedi{
+    padding: 2% 5%;
+}
+
+.frm{
+    background-color: #ef4d3e;
+}
+
+.frm-img{
+    padding-left: 15rem;
+}
+
+.frm-txt{
+    padding: 10rem 0 0 0;
+    color: white;
+}
+#footer{
+    background-color: #ef4d3e;
+}
+
+.cont6{
+    position: relative;
+    padding: 6% 5%;
+    color: white;
+}
+
+.btn-danger{
+    background-color: #ef4d3e;
+}
+
+.inp{
+    width: 20rem;
+    padding: 1.5rem;
+
+    margin: 2rem 3rem 2rem 5rem;
+}
+
+.cont12{
+    position: absolute;
+    z-index: 0;
+}
+
+.cont23{
+    padding-left: 50rem;
+}
+
+.card-frm{
+    max-width: 30rem;
+    text-align: left;
+    border-radius: 25px;
+    box-shadow: 0 0 8px black;
+    border: 1px solid;
+    width: 100rem;
+    height: 35rem;
+}
+
+.card-frm-txt{
+    padding: 4rem 4rem 0 4rem;
+
+}
+.card-frm-p{
+    padding-left: 4rem;
+}
+
+.frm-btn{
+    padding: 1rem 3rem;
+    margin: 7.5rem 0 0 9.5rem;
+    border-radius: 50px;
+}
+
+.cont33{
+    padding: 2rem;
+}
+
+.ftr{
+    color: white;
+    padding: 2rem 0 2rem 8rem;
+}
+
+.nav-dots2{
+    width: 8%;
+    left: 0;
+}
+
+.crs-btn1{
+    border-radius: 40px;
+    margin: 8% 4% 8% 4%;
+}
+
+.crs-txt{
+    padding: 10% 2%;
+    font-size: 0.8rem;
+    padding-left:10%;
+}
+
+.cont-crs{
+    padding : 8% 15% ;
+
+}
+
+#testimonials{
+    background-image: url(./bg-img.png);
+}
+
+
+.crs-btn2{
+    border-radius: 40px;
+    margin: 21% 25% 0 25%;
+
+}
+
+
+
+.crs-titl{
+    font-weight: bolder;
+    font-size: 2rem;
+    font-family:'Pathway Gothic One', sans-serif;
+}
+
+.bat-titl{
+    font-family:'Yanone Kaffeesatz', sans-serif;
+    font-weight: bold;
+    color: #ef4d3e;
+    font-size: 2.5rem;
+}
+
+.crs-txt2{
+    padding: 10% 2%;
+    font-size: 1.5rem;
+    padding-left:10%;
+}
+
+.crs-txt3{
+    font-size: 1rem;
+    text-align: left;
+    padding: 10% 2%;
+
+}
+
+.tst-txt1{
+    color: #ef4d3e;
+    font-size: 2rem;
+}
+
+
+.tst-txt2{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    letter-spacing: 0.1rem;
+}
+
+
+.tst-txt3{
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem;
+}
+
+.jrn-btn{
+    border-radius: 40px;
+    padding: 0.5rem 1rem;
+
+}
+.ftr2{
+    padding-left: 4rem;
+}
+
+.ftr-txt1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1rem;
+    padding-bottom: 2rem;
+    color: white;
+}
+
+.ftr-txt2{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 0.9rem;
+}
+
+.ico1{
+    padding : 1rem;
+}
+.hr3 {
+  border: 1px solid white ;
+  width: auto;
+  border-bottom: none;
+}
